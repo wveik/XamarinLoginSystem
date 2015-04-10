@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="LoginSystem\LoginSystem.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_12" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginSystem\dialog_SignUp.cs">
+    <Files>
+      <File FileName="LoginSystem\Resources\drawable\ButtonSignInStyle.xml" Line="2" Column="3" />
+      <File FileName="LoginSystem\MainActivity.cs" Line="25" Column="1" />
+      <File FileName="LoginSystem\Resources\drawable\ButtonSignUpStyle.xml" Line="45" Column="65" />
+      <File FileName="LoginSystem\Resources\drawable\ProgressBarStyle.xml" Line="22" Column="23" />
+      <File FileName="LoginSystem\dialog_SignUp.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoginSystem AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
